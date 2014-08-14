@@ -1,0 +1,24 @@
+---
+layout: post
+title: Replicación en PostgreSQL con Bucardo
+date: 2012-11-07 22:26:39.000000000 +01:00
+categories:
+- Spanish
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '6'
+author:
+  login: psanxiao
+  email: psanxiao@gmail.com
+  display_name: psanxiao
+  first_name: ''
+  last_name: ''
+---
+<p style="text-align: justify;">Siempre me ha llamado la atención la relación del software libre con los animales. Multitud de programas los utilizan como icono o en algunos casos, como el que nos ocupa cogen directamente el nombre de uno. Quizás esto daría para un post entero, pero de momento vamos a centrarnos en <a href="http://bucardo.org">Bucardo</a>, que además de ser una <a href="http://es.wikipedia.org/wiki/Capra_pyrenaica_pyrenaica">subespecie de cabra montesa</a>, ya extinguida por cierto, es una herramienta para sincronizar y replicar bases de datos.</p>
+<p style="text-align: justify;">Por motivos de trabajo, llevo varios días haciendo algunas pruebas con ella, y de momento es bastante prometedor. Según la vaya conociendo más trataré de ir haciendo algún post más explicativo de como usarla, pero de momento daré unas pinceladas como introducción.</p>
+<p style="text-align: justify;">Como decía, Bucardo es una herramienta que sirve para sincronizar y replicar bases de datos <a href="http://www.postgresql.org/">PostgreSQL</a>, permitiendo que dicha sincronización se haga en formato <em>Master-Slave</em>, es decir una base de datos donde se actualiza la información y una o varias de sólo lectura que se sincronizan con la primera, o en formato <em>Multi-Master, </em>con dos bases de datos sobre las que se actualiza información y que se sincronizan entre sí. En la propia wiki de PostgreSQL podéis ver una <a href="http://wiki.postgresql.org/wiki/Replication,_Clustering,_and_Connection_Pooling#Comparison_matrix">tabla resumen</a> con las distintas herramientas que hay para sincronización y replicación y los tipos que soportan cada una.</p>
+<p style="text-align: justify;">Si miramos un poco dentro de Bucardo, vemos que en esencia no es más que un conjunto de scripts en Perl junto con un demonio que se encarga de monitorizar las distintas bases de datos. Se instala en un único punto, es decir, no hace falta que lo instalemos en todos los servidores de bases de datos que tengamos. Simplemente necesitaremos un clúster de PostgreSQL donde Bucardo creará su propia base de datos. En ella, iremos añadiendo la información que necesita para llevar a cabo la sincronización, rellenando las diferentes tablas con los datos de las diferentes instancias de PostgreSQL que queremos replicar.</p>
+<p style="text-align: justify;">La sincronización de la información se hace de forma asíncrona, es decir, una vez que hay un cambio en la base de datos maestra, este se envía a los esclavos o a otro maestro, pero sin preocuparse de si la información llega al destino o no. Esto puede suponer un problema, ya que en caso de que el servidor o servidores de destino no estén conectados y en funcionamiento en ese momento, la información se perderá.</p>

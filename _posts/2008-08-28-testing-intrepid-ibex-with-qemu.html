@@ -1,0 +1,44 @@
+---
+layout: post
+title: Testing Intrepid Ibex with QEMU
+date: 2008-08-28 18:12:00.000000000 +02:00
+categories:
+- Hows To
+- Master on Free Software
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  blogger_blog: psanxiao.blogspot.com
+  blogger_author: Pablo Sanxiaohttp://www.blogger.com/profile/05095211569441587201noreply@blogger.com
+  blogger_permalink: /2008/08/testing-intrepid-ibex-with-qemu.html
+author:
+  login: psanxiao
+  email: psanxiao@gmail.com
+  display_name: psanxiao
+  first_name: ''
+  last_name: ''
+---
+<p>In one of the first posts I told about testing the new version of <a href="http://www.ubuntu.com/">Ubuntu</a>. In that post I had just upgraded muy ubuntu 7.10 to ubuntu 8.04 Heard5, that was, one month before ubuntu 8.04 becomes stable. I didn't have any several problem but to be honest I had lots of lucky.</p>
+<p>Now I am going to test the next ubuntu release, this is ubuntu 8.10 or if you prefer <a href="https://lists.ubuntu.com/archives/ubuntu-devel/2008-February/025136.html">Intrepid Ibex</a>.<br />According to the <a href="https://wiki.ubuntu.com/IntrepidReleaseSchedule">ubuntu release schedule</a> the last version to test if the <a href="http://www.ubuntu.com/testing/intrepid/alpha4">Alpha 4</a>.  Two months left for the release.</p>
+<p>This time I am not going to trush on luck.  In one of the last sessions of the <a href="http://www.mastersoftwarelibre.com/">Master on Free Software</a>, <a href="http://blogs.igalia.com/berto/">Berto</a> told us about Virtualization. Among the virtualization systems about Berto told us I liked specially <a href="http://bellard.org/qemu/">QEMU</a>, so I decided to use it in order to test ubuntu 8.10. These are the steps that I followed:</p>
+<p>- First I downloaded the iso image of ubuntu 8.10 Alpha 4 from <a href="http://cdimage.ubuntu.com/releases/intrepid/alpha-4/">here</a>.</p>
+<p>- Installing QEMU:</p>
+<div style="text-align: left">   <span style="border-style: inset">$sudo apt-get install qemu</span></div>
+<p>- Then I created a qemu file image, this will be my virtual hard disk, doing:</p>
+<div style="text-align: left">               <span style="border-style: inset">$qemu-img create -f qcow2 ~/intrepid.img 4G </span></p>
+<p>where 4G is the size of the virtual hard disk.</p>
+</div>
+<p>- Now I could install ubuntu 8.10 in that virtual hard disk from the iso image just doing:
+<div style="text-align: left"><span style="border-style: inset">$qemu -hda ~/intrepid.img -cdrom intrepid-desktop-i386.iso -boot d -m 512</span></div>
+<p>where 512 is the size of the RAM.</p>
+<p>- Finally to run ubuntu 8.10 after installing it:</p>
+<p><span style="border-style: inset">$qemu -hda ~/intrepid.img -m 512<br /></span></p>
+<p>Some tips:</p>
+<p>- If you are using a 64 bits operative system you should use qemu-system-x86_64 as command instead of qemu.</p>
+<p>- If you want the virtual system run faster you can install the qemu accelerator:</p>
+<p><span style="border-style: inset">$sudo apt-get install kqemu-common</span></p>
+<p>  you will need to load the kernel module for the accelerator:</p>
+<p>      <span style="border-style: inset">$sudo modprobe kqemu</span></p>
+<p> then you can run qemu with the option --kernel-kqemu to use the accelerator.</p>

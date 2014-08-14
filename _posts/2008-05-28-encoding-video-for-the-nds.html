@@ -1,0 +1,27 @@
+---
+layout: post
+title: Encoding video for the NDS
+date: 2008-05-28 16:41:00.000000000 +02:00
+categories:
+- Hows To
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  blogger_blog: psanxiao.blogspot.com
+  blogger_author: Pablo Sanxiaohttp://www.blogger.com/profile/05095211569441587201noreply@blogger.com
+  blogger_permalink: /2008/05/encoding-video-for-nds.html
+author:
+  login: psanxiao
+  email: psanxiao@gmail.com
+  display_name: psanxiao
+  first_name: ''
+  last_name: ''
+---
+<p>I have had a <a href="http://www.nintendo.co.uk/NOE/en_GB/systems/about_the_nintendo_ds_1024.html">nds</a> since a couple of months. Of course its best quality is the gaming but it has more possibilities. There are many homebrew or applications that you can download from internet and they let you do many things like surf the web, check your email, you can use it like video and music player even install <a href="http://www.dslinux.org/">GNU/Linux</a>.</p>
+<p>The video player is a great feature, for example I use a video and music player for my nds called <a href="http://en.wikipedia.org/wiki/MoonShell">moonshell</a>. The problem is that application uses a specific video format (<a href="http://en.wikipedia.org/wiki/NDs-mPeG">dpg</a>) so it is necessary to encode the videos before.<br />Recently I found <a href="http://gamersla.net/gnoblis/dpg_encoder/dpgconvpy.zip">this script</a> in python, licensed under <a href="http://www.gnu.org/licenses/gpl-2.0.html">GPL2</a>,  that let you do it easily. You need also <a href="http://gamersla.net/gnoblis/dpg_encoder/mpeg_stat.zip">mpeg_stat</a>, that analyze the streaming of a mpeg file. The use is as follow:</p>
+<p>First you need to copy mpeg_stat to your /bin directory. Then you should copy the script to the same directory where you have the video/s to encode and then you can execute doing:</p>
+<p>                            <span style="font-weight: bold">$ python dpgconv.py </span>file_name.extension</p>
+<p>It works perfectly with avi and mpeg videos, once it has done you can copy the video in your nds and to enjoy.</p>
+<p>The moral of the post is: Is there anything that it cannot be made with python?</p>

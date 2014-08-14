@@ -1,0 +1,23 @@
+---
+layout: post
+title: Sextante help in gvSIG 1.12
+date: 2012-10-28 18:47:14.000000000 +01:00
+categories:
+- gvSIG
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '6'
+author:
+  login: psanxiao
+  email: psanxiao@gmail.com
+  display_name: psanxiao
+  first_name: ''
+  last_name: ''
+---
+<p style="text-align: justify;">As you probably know, gvSIG 1.12 is already out.</p>
+<p style="text-align: justify;">This new version includes a great bunch of new features and many changes have been made to improve it.</p>
+<p style="text-align: justify;">Unfortunaly some times, errors are committed. In this case there is an error about Sextante help. The name of the help directory is wrong, it should be "help" but in the gvSIG 1.12 version is "sextante_help". Besides all help files should be inside another directory called "en" since Sextante finds the help depending on the system locale.</p>
+<p style="text-align: justify;">This problem will be fixed in next release, but in the mean time you can fix it by your own. What you have to do is just rename the folder "sextante_help" that is into <em>gvSIG_instalation_dir/gvSIG/extensions/es.unex.sextante/</em> to "help". Then you have to create a folder named "en" inside and move all the folders that contains the algorithms help into it.</p>

@@ -1,0 +1,31 @@
+---
+layout: post
+title: Tips for Ubuntu 9.04
+date: 2009-05-04 20:46:00.000000000 +02:00
+categories:
+- Free Software
+- Hows To
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  blogger_blog: psanxiao.blogspot.com
+  blogger_author: Pablo Sanxiaohttp://www.blogger.com/profile/05095211569441587201noreply@blogger.com
+  blogger_permalink: /2009/05/tips-for-ubuntu-904.html
+author:
+  login: psanxiao
+  email: psanxiao@gmail.com
+  display_name: psanxiao
+  first_name: ''
+  last_name: ''
+---
+<p>Testing the new release of Ubuntu I found some changes that don't like very much. First of them is that now the sortcut Ctrl+Alt+BackSpace is deactivated by default, the other one is that the update manager just appear when there are some new update instead of the old icon in the systray. I really hate windows that appear out of control in my desktop.</p>
+<p>Fortunately, looking for Internet I could find a solution. In the first case it's enough to add this lines at the end of /etc/X11/xorg.cong file:</p>
+<p><code><br />Section "ServerFlags"<br />Option "DontZap" "False"<br />EndSection<br /></code></p>
+<p>To avoid that update manager appears whenever it likes just type this in a terminal:</p>
+<p><code>gconftool -s --type bool /apps/update-notifier/auto_launch false</code></p>
+<p>I have also some problem with the 3D acceleration of my card, a Intel 945GM, that was fixed downgrading the driver to the intrepid version. For that, I added these lines to /etc/apt/sources.list:</p>
+<p><code><br />deb http://ppa.launchpad.net/siretart/ppa/ubuntu jaunty main<br />deb-src http://ppa.launchpad.net/siretart/ppa/ubuntu jaunty main<br /></code></p>
+<p>and doing <code>apt-get update</code> and <code>sudo apt-get install xserver-xorg-video-intel</code>.</p>
+<p>The moral of the post is that Human Beings are prisoners of our habits.</p>

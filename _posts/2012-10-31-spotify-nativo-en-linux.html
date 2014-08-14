@@ -1,0 +1,31 @@
+---
+layout: post
+title: Spotify nativo en Linux
+date: 2012-10-31 10:23:34.000000000 +01:00
+categories:
+- Hows To
+- Spanish
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '6'
+author:
+  login: psanxiao
+  email: psanxiao@gmail.com
+  display_name: psanxiao
+  first_name: ''
+  last_name: ''
+---
+<p style="text-align: justify;">Si usas <a href="http://www.spotify.com/es/">spotify</a> en GNU/Linux, seguramente lo haces a través de <a href="http://www.winehq.org/">Wine</a>, ejecutando la versión para windows. A pesar de que esta opción funcionan bastante bien, a veces suele dar algún que otro problemilla, y además no se integra completamente en el sistema.</p>
+<p style="text-align: justify;">Hace algún tiempo, <a href="http://www.spotify.com/es/blog/archives/2010/07/12/linux/">en el blog oficial de spotify se anunció una versión para GNU/Linux</a>, que según dicen, es la que usan internamente los propios desarrolladores de la plataforma. Es una versión preliminar sobre la que no se ofrece soporte oficial y además no está disponible para las cuentas gratuitas, ya que según comentan no han encontrado la forma de mostrar publicidad en ella.</p>
+<p style="text-align: justify;">Pues bien, recientemente esto ha cambiado y ahora sí soporta las cuentas gratuitas. Llevo usándola unos días en una Ubuntu 12.04 y la verdad es que funciona muy bien, además de integrarse perfectamente con el sistema.</p>
+<p style="text-align: justify;">Si quieres probarla sólo tienes que añadir el siguiente repositorio en <em>/etc/apt/sources.list</em></p>
+<pre>deb http://repository.spotify.com stable non-free</pre>
+<p style="text-align: justify;">añadir la clave pública si quieres comprobar los paquetes:</p>
+<pre>sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 94558F59</pre>
+<p style="text-align: justify;">actualizar e instalar el cliente:</p>
+<pre>sudo apt-get update</pre>
+<pre>sudo apt-get install spotify-client</pre>
+<pre></pre>

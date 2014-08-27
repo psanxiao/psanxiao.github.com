@@ -30,40 +30,42 @@ SEXTANTE is a spatial data analysis library written in Java and it is included a
 Here you can find some of the projects in which I have participated as part of my professional activity:
 
 ####SIXHIARA
-gvSIG extension for data water management in Mozambique
-Position: Developer - Technologies: gvSIG
+gvSIG extension for data water management in Mozambique  
+**Position**: Developer - **Technologies**: gvSIG
 
-####gvSIG Fonsagua [Project website]
-GIS application to manage water and sanitation programs related to Cooperation for Development
-Position: Developer - Technologies: gvSIG, PostgreSQL/PostGIS
+####gvSIG Fonsagua  
+GIS application to manage water and sanitation programs related to Cooperation for Development  
+**Position**: Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS  
+\[[Project website](http://cartolab.udc.es/fonsagua)\]
 
 ####VIAL
-Road network catalog based on PostGIS and gvSIG.
-Position: Developer - Technologies: gvSIG, PostgreSQL/PostGIS, SQLite
+Road network catalog based on PostGIS and gvSIG.  
+**Position**: Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, SQLite
 
 ####SIGA (AUDASA Management Information System)
-Management information system, based on GIS, for a highway 
-Position: Project Manager/Developer - Technologies: gvSIG, PostgreSQL/PostGIS, Geoserver, Pyramid, Bootstrap.
+Management information system, based on GIS, for a highway  
+**Position**: Project Manager/Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, Geoserver, Pyramid, Bootstrap.
 
 ####EIEL A Coruña (Enquiry on Local Infrastructures and Services)
-Management of a Spatial BDD, GIS Application and Web Portal with the geographic information of A Coruña province council
-Position: Project Manager - Technologies: GisEIEL, PostgreSQL/PostGIS, Deegree
+Management of a Spatial BDD, GIS Application and Web Portal with the geographic information of A Coruña province council  
+**Position**: Project Manager - **Technologies**: GisEIEL, PostgreSQL/PostGIS, Deegree
 
 ####ArqueoPonte
-GIS application to manage data from archaeological excavations
-Position: Project Manager/Developer – Technologies: gvSIG, PostgreSQL/PostGIS
+GIS application to manage data from archaeological excavations  
+**Position**: Project Manager/Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS
 
-####gvSIG EIEL [Project website]
-GIS application to manage the data in the Survey on Local Infrastructure and Facilities
-Position: Project Manager/Developer - Technologies: gvSIG, PostgreSQL/PostGIS
+####gvSIG EIEL
+GIS application to manage the data in the Survey on Local Infrastructure and Facilities  
+**Position**: Project Manager/Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS  
+\[[Project website](http://cartolab.udc.es/gvsig-eiel)\]
 
 ####SIX Emisarios
-Corporate GIS to consult information about the sewage pipes in Galician
-Position: Developer - Technologies: gvSIG, PostgreSQL/PostGIS, MapServer
+Corporate GIS to consult information about the sewage pipes in Galician  
+**Position**: Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, MapServer
 
 ####gvSIG Plan de Saneamiento de Galicia
-GIS application to manage The Galician Water Sanitation Program
-Position: Developer - Technologies: gvSIG, SEXTANTE
+GIS application to manage The Galician Water Sanitation Program  
+**Position**: Developer - **Technologies**: gvSIG, SEXTANTE
 
 ###\_free software promotion
  

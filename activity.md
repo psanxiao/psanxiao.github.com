@@ -11,20 +11,20 @@ group: navigation
 Here you can find some of the free software projects in which I am involved:
 
 ####GNOME 
-I have been involved in GNOME project since 2007, mainly as developer and maintainer of GTranslator. Nowadays I keep collaborate a bit with the project and I am member of the GNOME Foundation.
+I have been involved in [GNOME project](http://gnome.org) since 2007, mainly as developer and maintainer of [GTranslator](http://projects.gnome.org/gtranslator). Nowadays I keep collaborate a bit with the project and I am member of the [GNOME Foundation](http://www.gnome.org/foundation/).
 
 ####gvSIG
-gvSIG is a Geographical Information System created by a Public Administration in Spain and released under GPL2 license.
+[gvSIG](http://gvsig.org) is a Geographical Information System created by a Public Administration in Spain and released under GPL2 license.
 
-I have worked in gvSIG since 2009 as part of my profesional job, but also I have involved in its community. Right now I am a core developer of this project and member of the Technical Steering Comittee’s Board.
+I have worked in gvSIG since 2009 as part of my profesional job, but also I have involved in its community. I have been a core developer of this project and member of the Technical Steering Comittee’s Board.
 
 ####NavTable & NTForms
-NavTable is a gvSIG extension created by CartoLab (Cartography Engineering Laboratory of University of A Coruña). I have involved in this project since its beginning as Lead Developer until 2011. Nowadays I keep collaborate as developer.
+[NavTable](http://navtable.github.io/) is a gvSIG extension created by [CartoLab](http://cartolab.udc.es) (Cartography Engineering Laboratory of University of A Coruña). I have involved in this project since its beginning as Lead Developer until 2011. Nowadays I keep collaborate as developer.
 
-NTForms is a library to build navigable and validated java forms for gvSIG. I’m one of the core developers.
+[NTForms](http://github.com/navtable/navtableforms) is a library to build navigable and validated java forms for gvSIG. I’m one of the core developers.
 
 ####SEXTANTE
-SEXTANTE is a spatial data analysis library written in Java and it is included as extension in gvSIG. I have worked a bit on this project, to be more precise in the gvSIG Bindings in order to integrate it on the gvSIG 1.X version.
+[SEXTANTE](http://www.sextantegis.com) is a spatial data analysis library written in Java and it is included as extension in gvSIG. I have worked a bit on this project, to be more precise in the gvSIG Bindings in order to integrate it on the gvSIG 1.X version.
 
 ###\_professional activity
 Here you can find some of the projects in which I have participated as part of my professional activity:

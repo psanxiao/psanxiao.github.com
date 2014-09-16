@@ -4,10 +4,10 @@ title: _Activity
 header: _Activity
 group: navigation
 ---
+
 {% include JB/setup %}
 
 ###\_community projects
-
 Here you can find some of the free software projects in which I am involved:
 
 ####GNOME 

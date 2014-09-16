@@ -6,6 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
+<head>
+	<link rel="stylesheet" href="./Leaflet.Instagram/examples/lib/leaflet/leaflet.css" />
+	<link rel="stylesheet" href="./Leaflet.Instagram/examples/lib/fancybox/jquery.fancybox.css" />	
+	<link rel="stylesheet" href="./Leaflet.Instagram/examples/lib/cluster/MarkerCluster.css" />	
+	<link rel="stylesheet" href="./Leaflet.Instagram/dist/Leaflet.Instagram.css" />			
+	<link rel="stylesheet" href="./Leaflet.Instagram/examples/css/map.css" />
+</head>
+
 <table>
 	<tr>
 		<td>
@@ -39,3 +47,27 @@ group: navigation
 <p style="text-align: justify;">
 	When I'm not in front of the computer I like ridding on bike and taking photos. I'm also applicant to triathlete taking part of <a href="http://nosportlimit.com">NoSportLimit</a>.
 </p>
+
+<div id="map"></div>
+	<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+	<script src="./Leaflet.Instagram/examples/lib/fancybox/jquery.fancybox.pack.js"></script>		
+	<script src="./Leaflet.Instagram/examples/lib/reqwest.min.js"></script>
+	<script src="./Leaflet.Instagram/examples/lib/leaflet/leaflet.js"></script>
+	<script src="./Leaflet.Instagram/examples/lib/cluster/leaflet.markercluster.js"></script>			
+	<script src="./Leaflet.Instagram/dist/Leaflet.Instagram.Fancybox.Cluster.js"></script>		
+	<script>
+
+	var map = L.map('map').setView([40.47, -3.75], 5);
+
+	L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(map);
+
+	L.instagram.cluster('https://api.instagram.com/v1/users/33964239/media/recent?access_token=33964239.0ad03e2.73b47367ef8a44829bb6cce6471df975', {
+		featureGroup: L.instagram.fancybox
+	}
+	).addTo(map);
+
+	</script>
+
+</br>

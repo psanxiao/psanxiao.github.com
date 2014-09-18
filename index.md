@@ -14,4 +14,12 @@ tagline:
 </ul>
 
 
-<a href="/archive.html">All posts</a>
+<a href="/archive.html">[All posts]</a>
+</br>
+</br>
+
+<h4>Categories</h4>
+<ul class="tag_box inline">
+  {% assign categories_list = site.categories %}
+  {% include JB/categories_list %}
+</ul>

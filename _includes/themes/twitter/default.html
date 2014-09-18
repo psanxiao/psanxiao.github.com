@@ -52,12 +52,24 @@
         {{ content }}
       </div>
       <hr>
-      <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+      <footer class="the-footer">
+    <div class="unit-foot">
+      <div class="unit-inner unit-foot-inner">
+        <div class="misc vcard">
+          <ul>
+            <li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
+            <li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
+            <li class="twitter"><a href="http://es.linkedin.com/in/{{ site.author.linkedin }}/en" rel="me">linkedin.com/{{ site.author.linkedin }}</a></li>
+            <li class="twitter"><a href="http://flickr.com/{{ site.author.flickr }}/" rel="me">flickr.com/{{ site.author.flickr }}</a></li>
+            <!-- <li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li> -->
+          </ul>
+        </div><!-- misc -->
+        <p class="licence">
+          psanxiao &copy 2014. Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
         </p>
-      </footer>
+      </div><!-- unit-foot-inner -->
+    </div><!-- unit-foot -->
+  </footer>
 
     </div>
 

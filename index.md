@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: _Blog
 tagline:
 ---
 {% include JB/setup %}
@@ -15,8 +15,6 @@ tagline:
 
 
 <a href="/archive.html">[All posts]</a>
-</br>
-</br>
 
 <h4>Categories</h4>
 <ul class="tag_box inline">

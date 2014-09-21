@@ -29,6 +29,10 @@ I have worked in gvSIG since 2009 as part of my profesional job, but also I have
 ###\_professional activity
 Here you can find some of the projects in which I have participated as part of my professional activity:
 
+####OCFLOSS
+Free Software Coordination Office at [AMTEGA](http://amtega.xunta.es) (Xunta de Galicia)  
+**Position**: Consultant
+
 ####SIXHIARA
 gvSIG extension for data water management in Mozambique  
 **Position**: Developer - **Technologies**: gvSIG
@@ -76,6 +80,13 @@ Collaborative project to localize into Galician the book: “Produccing Open Sou
 ####Talks in Master on Free Software and UDC
 
 I have given several talks in the Master on Free Software and in the University of A Coruña (UDC) about business opportunities related to free software.
+
+####Talks and workshops about OpenStreetMap
+
+**[OSM Slides](http://xeoinquedos.eu/osm-slides)
+
+    * 2014 - Talk and workshop for students of Cooperation for Development in Civil Engineering, a subject of Civil Engineering degree (University of A Coruña)
+    * 2013 - Talk for students of the IES Xulián Magariños
  
 ####Events organized
 

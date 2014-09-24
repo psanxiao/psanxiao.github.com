@@ -25,6 +25,7 @@ I have worked in gvSIG since 2009 as part of my profesional job, but also I have
 
 ####SEXTANTE
 [SEXTANTE](http://www.sextantegis.com) is a spatial data analysis library written in Java and it is included as extension in gvSIG. I have worked a bit on this project, to be more precise in the gvSIG Bindings in order to integrate it on the gvSIG 1.X version.
+ 
 
 ###\_professional activity
 Here you can find some of the projects in which I have participated as part of my professional activity:
@@ -70,6 +71,7 @@ Corporate GIS to consult information about the sewage pipes in Galician
 ####gvSIG Plan de Saneamiento de Galicia
 GIS application to manage The Galician Water Sanitation Program  
 **Position**: Developer - **Technologies**: gvSIG, SEXTANTE
+ 
 
 ###\_free software promotion
  
@@ -83,7 +85,7 @@ I have given several talks in the Master on Free Software and in the University 
 
 ####Talks and workshops about OpenStreetMap
 
-**[OSM Slides](http://xeoinquedos.eu/osm-slides)
+**[OSM Slides](http://xeoinquedos.eu/osm-slides)**
 
     * 2014 - Talk and workshop for students of Cooperation for Development in Civil Engineering, a subject of Civil Engineering degree (University of A Coruña)
     * 2013 - Talk for students of the IES Xulián Magariños

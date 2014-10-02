@@ -11,11 +11,9 @@
       {{ content }}
     </div>
 
-  {% unless page.suggested_tweet == empty %}
     <img style="width: 5%" src="../../assets/logos/logo-twitter.png">
-    <a href="{% suggested_tweet %}">Share on twitter</a>
+    <a href="https://twitter.com/intent/tweet?text={{ page.title}} by @psanxiao&url=http://psanxiao.com{{page.url}}">Share on twitter</a>
     <p></p>
-  {% endunless %}
 
   {% unless page.categories == empty %}
     <ul class="tag_box inline">

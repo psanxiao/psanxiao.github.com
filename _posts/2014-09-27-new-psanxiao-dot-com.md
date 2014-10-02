@@ -17,6 +17,10 @@ author:
   display_name: psanxiao
   first_name: ''
   last_name: ''
+suggested_tweet:
+  url: 'http://psanxiao.com/new-psanxiao-dot-com/'
+  text: 
+  hashtags: []
 ---
 After many years using [Wordpress](https://wordpress.org/) as CMS for this blog, it is time to change. Wordpress is a very good solution for creating your own blog or personal page. It is very easy to use and very personalized by means of the incredible amount of themes and plugins. 
 

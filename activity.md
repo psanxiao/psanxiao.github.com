@@ -7,6 +7,8 @@ group: navigation
 
 {% include JB/setup %}
 
+{{ content }}
+
 ###\_community projects
 Here you can find some of the free software projects in which I am involved:
 

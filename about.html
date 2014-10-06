@@ -63,10 +63,18 @@ group: navigation
     	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 	}).addTo(map);
 
-	L.instagram.cluster('https://api.instagram.com/v1/users/33964239/media/recent?access_token=33964239.0ad03e2.73b47367ef8a44829bb6cce6471df975', {
-		featureGroup: L.instagram.fancybox
-	}
-	).addTo(map);
-
+	$.ajax({
+        type: "GET",
+        dataType: "jsonp",
+        cache: false,
+        url: "https://api.instagram.com/v1/users/33964239?access_token=33964239.0ad03e2.73b47367ef8a44829bb6cce6471df975",
+        success: function (data) {
+        	var url = 'https://api.instagram.com/v1/users/33964239/media/recent?access_token=33964239.0ad03e2.73b47367ef8a44829bb6cce6471df975&count=' + data.data.counts.media;
+			L.instagram.cluster(url, {
+			featureGroup: L.instagram.fancybox
+			}
+			).addTo(map);
+        }
+    });
 	</script>
 My <a href="http://instagram.com/psanxiao">instagram photos</a> on a map.

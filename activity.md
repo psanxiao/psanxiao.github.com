@@ -31,7 +31,7 @@ Here you can find some of the free software projects in which I am involved:
 ***
 
 ###\_professional activity
-Here you can find some of the projects in which I have participated as part of my professional activity:
+Here you can find some of the projects in which I have participated as part of my professional activity at [CartoLab](http://cartolab.udc.es) and [iCarto](http://icarto.es):
 
 * ####OCFLOSS
     Free Software Coordination Office at [AMTEGA](http://amtega.xunta.es) (Xunta de Galicia)  

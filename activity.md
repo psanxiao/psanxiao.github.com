@@ -9,27 +9,6 @@ group: navigation
 
 {{ content }}
 
-###\_community projects
-Here you can find some of the free software projects in which I am involved:
-
-* ####GNOME 
-    I have been involved in [GNOME project](http://gnome.org) since 2007, mainly as developer and maintainer of [GTranslator](http://projects.gnome.org/gtranslator). Nowadays I keep collaborate a bit with the project and I am member of the [GNOME Foundation](http://www.gnome.org/foundation/).
-
-* ####gvSIG
-    [gvSIG](http://gvsig.org) is a Geographical Information System created by a Public Administration in Spain and released under GPL2 license.
-
-    I have worked in gvSIG since 2009 as part of my profesional job, but also I have involved in its community. I have been a core developer of this project and member of the Technical Steering Comittee’s Board.
-
-* ####NavTable & NTForms
-    [NavTable](http://navtable.github.io/) is a gvSIG extension created by [CartoLab](http://cartolab.udc.es) (Cartography Engineering Laboratory of University of A Coruña). I have involved in this project since its beginning as Lead Developer until 2011. Nowadays I keep collaborate as developer.
-
-    [NTForms](http://github.com/navtable/navtableforms) is a library to build navigable and validated java forms for gvSIG. I’m one of the core developers.
-
-* ####SEXTANTE
-    [SEXTANTE](http://www.sextantegis.com) is a spatial data analysis library written in Java and it is included as extension in gvSIG. I have worked a bit on this project, to be more precise in the gvSIG Bindings in order to integrate it on the gvSIG 1.X version.
- 
-***
-
 ###\_professional activity
 Here you can find some of the projects in which I have participated as part of my professional activity at [CartoLab](http://cartolab.udc.es) and [iCarto](http://icarto.es):
 
@@ -39,20 +18,28 @@ Here you can find some of the projects in which I have participated as part of m
 
 * ####SIXHIARA
     gvSIG extension for data water management in Mozambique  
-    **Position**: Developer - **Technologies**: gvSIG
+    **Position**: Developer - **Technologies**: gvSIG  
+    \[[Source code](https://github.com/iCarto/sixhiara)\]
 
 * ####gvSIG Fonsagua  
     GIS application to manage water and sanitation programs related to Cooperation for Development  
     **Position**: Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS  
-    \[[Project website](http://cartolab.udc.es/fonsagua)\]
+    \[[Project website](http://cartolab.udc.es/fonsagua)\] \[[Source code](https://github.com/fonsagua/fonsagua)\]
 
 * ####VIAL
     Road network catalog based on PostGIS and gvSIG.  
-    **Position**: Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, SQLite
+    **Position**: Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, SQLite  
+    \[[Source code](https://github.com/iCarto/vial)\]
 
 * ####SIGA (AUDASA Management Information System)
     Management information system, based on GIS, for a highway  
-    **Position**: Project Manager/Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, Geoserver, Pyramid, Bootstrap.
+    **Position**: Project Manager/Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, Geoserver, Pyramid, Bootstrap.  
+    \[[Source code](https://github.com/iCarto/siga)\]
+
+* ####extCatastro
+    gvSIG extension to manage topologic operations related to Mexican cadastre  
+    **Position**: Project Manager/Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS.  
+    \[[Source code](https://github.com/iCarto/extCatastro)\]
 
 * ####EIEL A Coruña (Enquiry on Local Infrastructures and Services)
     Management of a Spatial BDD, GIS Application and Web Portal with the geographic information of A Coruña province council  
@@ -75,6 +62,27 @@ Here you can find some of the projects in which I have participated as part of m
     GIS application to manage The Galician Water Sanitation Program  
     **Position**: Developer - **Technologies**: gvSIG, SEXTANTE
  
+***
+
+###\_community projects
+Here you can find some of the free software projects in which I am involved:
+
+* ####GNOME 
+    I have been involved in [GNOME project](http://gnome.org) since 2007, mainly as developer and maintainer of [GTranslator](http://projects.gnome.org/gtranslator). Nowadays I keep collaborate a bit with the project and I am member of the [GNOME Foundation](http://www.gnome.org/foundation/).
+
+* ####gvSIG
+    [gvSIG](http://gvsig.org) is a Geographical Information System created by a Public Administration in Spain and released under GPL2 license.
+
+    I have worked in gvSIG since 2009 as part of my profesional job, but also I have involved in its community. I have been a core developer of this project and member of the Technical Steering Comittee’s Board.
+
+* ####NavTable & NTForms
+    [NavTable](http://navtable.github.io/) is a gvSIG extension created by [CartoLab](http://cartolab.udc.es) (Cartography Engineering Laboratory of University of A Coruña). I have involved in this project since its beginning as Lead Developer until 2011. Nowadays I keep collaborate as developer.
+
+    [NTForms](http://github.com/navtable/navtableforms) is a library to build navigable and validated java forms for gvSIG. I’m one of the core developers.
+
+* ####SEXTANTE
+    [SEXTANTE](http://www.sextantegis.com) is a spatial data analysis library written in Java and it is included as extension in gvSIG. I have worked a bit on this project, to be more precise in the gvSIG Bindings in order to integrate it on the gvSIG 1.X version.
+
 ***
 
 ###\_free software promotion

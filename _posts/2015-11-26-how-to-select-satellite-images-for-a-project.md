@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "new post"
+title: "How to select satellite images for a project"
 description: ""
 category: 
 - GIS

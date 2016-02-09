@@ -1,6 +1,6 @@
 ---
 layout: page
-title: _Activity 
+title: _Activity
 header: _Activity
 group: navigation
 ---
@@ -18,7 +18,7 @@ Here you can find some of the projects in which I have participated as part of m
 
 * ####SIXHIARA
     gvSIG extension for data water management in Mozambique  
-    **Position**: Developer - **Technologies**: gvSIG  
+    **Position**: Lead Developer - **Technologies**: gvSIG  
     \[[Source code](https://github.com/iCarto/sixhiara)\]
 
 * ####gvSIG Fonsagua  
@@ -56,18 +56,18 @@ Here you can find some of the projects in which I have participated as part of m
 
 * ####SIX Emisarios
     Corporate GIS to consult information about the sewage pipes in Galician  
-    **Position**: Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, MapServer
+    **Position**: Lead Developer - **Technologies**: gvSIG, PostgreSQL/PostGIS, MapServer
 
 * ####gvSIG Plan de Saneamiento de Galicia
     GIS application to manage The Galician Water Sanitation Program  
-    **Position**: Developer - **Technologies**: gvSIG, SEXTANTE
- 
+    **Position**: Lead Developer - **Technologies**: gvSIG, SEXTANTE
+
 ***
 
 ###\_community projects
-Here you can find some of the free software projects in which I am involved:
+Here you can find some of the free software projects in which I have involved:
 
-* ####GNOME 
+* ####GNOME
     I have been involved in [GNOME project](http://gnome.org) since 2007, mainly as developer and maintainer of [GTranslator](http://projects.gnome.org/gtranslator). Nowadays I keep collaborate a bit with the project and I am member of the [GNOME Foundation](http://www.gnome.org/foundation/).
 
 * ####gvSIG
@@ -86,7 +86,7 @@ Here you can find some of the free software projects in which I am involved:
 ***
 
 ###\_free software promotion
- 
+
 * ####ProducingOSS
 
     Collaborative project to localize into Galician the book: “Produccing Open Source Software” by Karl Fogel. I participated in this project by devising the methodology of translation and also as translator, reviewer and layout designer.
@@ -103,13 +103,14 @@ Here you can find some of the free software projects in which I am involved:
                  in Civil Engineering, a subject of Civil Engineering degree  
                  (University of A Coruña)
         2013 - Talk for students of the IES Xulián Magariños
- 
+
 * ####Events organized
 
     **[Geocamp ES](http://geocamp.es)**
 
         An “unconference” about FLOSS geographic information technologies.
-    
+
+        2015 - Sevilla
         2014 - A Corunha
         2013 - Vigo
 
@@ -117,8 +118,11 @@ Here you can find some of the free software projects in which I am involved:
     **[QGIS Weekend](http://qgisweekend.xeoinquedos.eu)**
 
         A weekend to enfoy QGIS. Talks, workshops and networking.   
-    
+
         2013 - Santiago de Compostela
 
+***
 
+###\_volunteer work
 
+Since 2009 I'm part of the NGO [Engineering Without Borders](http://www.isf.es/), working in the Finance & Administration team. From 2014 to 2016 I have been Treasurer.

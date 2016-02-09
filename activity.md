@@ -85,7 +85,7 @@ Here you can find some of the free software projects in which I have involved:
 
 ***
 
-###\_free software promotion
+### \_free software promotion
 
 * #### ProducingOSS
 

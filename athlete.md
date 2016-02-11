@@ -1,18 +1,25 @@
 ---
 layout: page
-title: _athlete
-header: _Sports CV
+title: _sports CV
+header: _sports CV
 ---
 
 {% include JB/setup %}
 
 {{ content }}
 
+Michael Jordan said:
+
+> I can accept failure, everyone fails at something.
+> But I can't accept not trying
+
+![image](./assets/images/psanxiao_trail.jpg)
+
 * 1 Ultra Trail
-  - 101 Peregrinos 2015
-* 1 Maratón
+  - [101 Peregrinos](http://www.101peregrinos.com) 2015
+* 1 Marathon
   - Oporto 2014
-* 6 Media Maratón
+* 6 Half Marathon
   - Coruña21 2014, 2015
   - Vig-Bay 2013, 2014
   - Volta a ría 2014, 2015
@@ -22,9 +29,9 @@ header: _Sports CV
   - San Xiao 2014
   - Sanitas Coruña 2013
   - Lugo Monumental 2010
-* 1 Behovia-San Sebastián 2015
+* 1 [Behovia-San Sebastián](http://www.behobia-sansebastian.com) 2015
 * 2 Pedestres Santiago 2010, 2013
 * 6 Trails
   - (Costa Artabra, Laracha, Arteixo, As Pontes, Brigantia, Costa Doce)
-* 5 Populares
+* 5 Popular Races
   - (Pinga-Pinga, Volta Oza, Pedestre Ames, Popular Cambre, Parque Oleiros)

@@ -33,5 +33,6 @@ Michael Jordan said:
 * 2 Pedestres Santiago 2010, 2013
 * 6 Trails
   - (Costa Artabra, Laracha, Arteixo, As Pontes, Brigantia, Costa Doce)
-* 5 Popular Races
-  - (Pinga-Pinga, Volta Oza, Pedestre Ames, Popular Cambre, Parque Oleiros)
+* 8 Popular Races
+  - (Pinga-Pinga, Volta Oza, Pedestre Ames, Popular Cambre, Parque Oleiros,
+     Carrera contra el Cáncer, San Silvestre A Coruña, Nocturna Ferrol)

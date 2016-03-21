@@ -15,6 +15,11 @@ Michael Jordan said:
 
 ![image](./assets/images/psanxiao_trail.jpg)
 
+### Triathlon
+* 1 Duathlon
+  - Arteixo 2016
+
+### Running & Trail
 * 1 Ultra Trail
   - [101 Peregrinos](http://www.101peregrinos.com) 2015
 * 1 Marathon

@@ -16,6 +16,8 @@ Michael Jordan said:
 ![image](./assets/images/psanxiao_trail.jpg)
 
 ### Triathlon
+* 1 Triathlon Sprint
+  - Oleiros 2016
 * 1 Duathlon
   - Arteixo 2016
 
@@ -24,13 +26,13 @@ Michael Jordan said:
   - [101 Peregrinos](http://www.101peregrinos.com) 2015
 * 1 Marathon
   - Oporto 2014
-* 6 Half Marathon
+* 7 Half Marathon
   - Coruña21 2014, 2015
-  - Vig-Bay 2013, 2014
+  - Vig-Bay 2013, 2014, 2016
   - Volta a ría 2014, 2015
-* 7 10K
+* 8 10K
   - Coruña 10 2013, 2014, 2015
-  - 10K Coruña42 2014
+  - 10K Coruña42 2014, 2016
   - San Xiao 2014
   - Sanitas Coruña 2013
   - Lugo Monumental 2010

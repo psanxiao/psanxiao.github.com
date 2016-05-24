@@ -26,4 +26,4 @@ Salir tan retrasado del agua me pasa factura, aunque en bici y corriendo voy bie
 
 Pero la mejor lección de todo esto es que voy muy mal en el agua y lo sabía. Nunca fui especialmente rápido nadando y lo cierto es que esta temporada fue lo que menos entrené. Error. Aunque la natación en un triatlón parece un mero trámite porque es lo primero, lo cierto es que salir muy atrás perjudica y mucho, no sólo por empezar ya retrasado sino porque te impide coger un buen grupo en la bici para ir más cómodo por ejemplo. Así que toca entrenar y duro la natación para mejorar.
 
-Próxima estación Baiona, distancia olímpica y sin drafting, al menos no tendré que sufrir por no pillar grupo en la bici ya que estaremos cada uno por nuestra cuenta: http://0.0.0.0:4000/
+Próxima estación Baiona, distancia olímpica y sin drafting, al menos no tendré que sufrir por no pillar grupo en la bici ya que estaremos cada uno por nuestra cuenta.

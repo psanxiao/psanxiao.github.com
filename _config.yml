@@ -1,4 +1,6 @@
 # This is the default format.
+url: http://psanxiao.com
+
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:title
 

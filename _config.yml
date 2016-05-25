@@ -102,7 +102,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #
   analytics :
-    provider : google
+    provider : statcounter
     google :
         tracking_id : 'UA-55151913-1'
     getclicky :

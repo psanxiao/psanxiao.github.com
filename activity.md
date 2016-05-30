@@ -7,8 +7,6 @@ group: navigation
 
 {% include JB/setup %}
 
-{{ content }}
-
 ### \_professional activity
 Here you can find some of the projects in which I have participated as part of my professional activity at [CartoLab](http://cartolab.udc.es) and [iCarto](http://icarto.es):
 

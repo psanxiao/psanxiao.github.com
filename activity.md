@@ -104,6 +104,11 @@ Here you can find some of the free software projects in which I have involved:
                  (University of A Coruña)
         2013 - Talk for students of the IES Xulián Magariños
 
+* #### Talks and workshops about Free Software
+
+    2015 - Talk about Free Software for geomatics in [Igaciencia](http://www.igaciencia.eu/drupal7/) congress. \[[Slides](http://www.mancomun.gal/uploads/Documentacion/Xunta/20140701_Usos_educativos_da_xeomatica_libre.pdf)\]   
+    2014 - Worshop about how to evaluate Free Software projects. \[[Slides](http://icarto.github.io/seminario_avaliacion_proxectos_libres/#/)\]\[[Video](https://cdtic.xunta.gal/avaliacion-proxectos-libres)\]
+
 * #### Events organized
 
     **[Geocamp ES](http://geocamp.es)**

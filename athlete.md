@@ -6,8 +6,6 @@ header: _sports CV
 
 {% include JB/setup %}
 
-{{ content }}
-
 Michael Jordan said:
 
 > I can accept failure, everyone fails at something.

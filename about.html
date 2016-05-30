@@ -67,6 +67,7 @@ group: navigation
 	var numImagesByUser;
 	var paginationURL;
 
+
 	$.ajax({
         type: "GET",
         dataType: "jsonp",
@@ -75,39 +76,35 @@ group: navigation
         success: function (data) {
         	numImagesByUser = data.data.counts.media;
         	var url = 'https://api.instagram.com/v1/users/33964239/media/recent?access_token=33964239.0ad03e2.73b47367ef8a44829bb6cce6471df975&count=' + numImagesByUser;
-			L.instagram.cluster(url, {
-			featureGroup: L.instagram.fancybox
-			}
+			L.instagram.cluster(url
 			).addTo(map);
         }
     });
 
-	// var iter = 0;
- //    $.ajax({
- //        type: "GET",
- //        dataType: "jsonp",
- //        cache: false,
- //        url: 'https://api.instagram.com/v1/users/33964239/media/recent?access_token=33964239.0ad03e2.73b47367ef8a44829bb6cce6471df975&count=' + numImagesByUser,
- //        success: function (data) {
- //        	paginationURL = data.pagination.next_url;
- //        	while (iter < (numImagesByUser%20)) {
- //        				$.ajax({
-	// 				        type: "GET",
-	// 				        dataType: "jsonp",
-	// 				        cache: false,
-	// 				        url: paginationURL,
-	// 				        success: function (data) {
-	// 							L.instagram.cluster(paginationURL, {
-	// 							featureGroup: L.instagram.fancybox
-	// 							}
-	// 							).addTo(map);
-	// 							paginationURL = data.pagination.next_url;
-	// 							console.log(paginationURL);
-	// 		        		}
-	// 		    		});
-	// 		    		iter = iter + 1;
- //        	}
- //        }
- //    });
+	var iter = 0;
+    $.ajax({
+        type: "GET",
+        dataType: "jsonp",
+        cache: false,
+        url: 'https://api.instagram.com/v1/users/33964239/media/recent?access_token=33964239.0ad03e2.73b47367ef8a44829bb6cce6471df975&count=' + numImagesByUser,
+        success: function (data) {
+        	paginationURL = data.pagination.next_url;
+        	while (iter < (numImagesByUser%20)) {
+        				$.ajax({
+					        type: "GET",
+					        dataType: "jsonp",
+					        cache: false,
+					        url: paginationURL,
+					        success: function (data) {
+								L.instagram.cluster(paginationURL
+								).addTo(map);
+								paginationURL = data.pagination.next_url;
+								console.log(paginationURL);
+			        		}
+			    		});
+			    		iter = iter + 1;
+        	}
+        }
+    });
 	</script>
 My <a href="http://instagram.com/psanxiao">instagram photos</a> on a map.

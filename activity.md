@@ -7,7 +7,9 @@ group: navigation
 
 {% include JB/setup %}
 
-### \_professional activity
+\[[\_professional activity](#professional)\] \[[\_community projects](#community)\] \[[\_free software promotion](#promotion)\]  \[[\_volunteer work](#volunteer)\]
+
+### \_professional activity {#professional}
 Here you can find some of the projects in which I have participated as part of my professional activity at [CartoLab](http://cartolab.udc.es) and [iCarto](http://icarto.es):
 
 * #### OCFLOSS
@@ -62,7 +64,7 @@ Here you can find some of the projects in which I have participated as part of m
 
 ***
 
-### \_community projects
+### \_community projects {#community}
 Here you can find some of the free software projects in which I have involved:
 
 * #### GNOME
@@ -83,7 +85,7 @@ Here you can find some of the free software projects in which I have involved:
 
 ***
 
-### \_free software promotion
+### \_free software promotion {#promotion}
 
 * #### ProducingOSS
 
@@ -126,6 +128,6 @@ Here you can find some of the free software projects in which I have involved:
 
 ***
 
-### \_volunteer work
+### \_volunteer work {#volunteer}
 
 Since 2009 I'm part of the NGO [Engineering Without Borders](http://www.isf.es/), working in the Finance & Administration team. From 2014 to 2016 I have been Treasurer.

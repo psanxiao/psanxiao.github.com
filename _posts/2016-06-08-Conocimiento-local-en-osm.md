@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conocimento local en OSM"
+title: "Conocimiento local en OSM"
 description: ""
 category: 
 - Spanish

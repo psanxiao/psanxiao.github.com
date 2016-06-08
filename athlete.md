@@ -14,7 +14,8 @@ Michael Jordan said:
 ![image](./assets/images/psanxiao_trail.jpg)
 
 ### Triathlon
-* 2 Triathlon Sprint
+* 1 Olimpic Triathlon
+* 2 Sprint Triathlon
   - Oleiros, Riazor 2016
 * 1 Duathlon
   - Arteixo 2016

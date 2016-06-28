@@ -1,7 +1,7 @@
 ---
 layout: page
-title: _Blog
-tagline:
+title: psanxiao's web
+tagline: Entrepreneur (http://icarto.es ), software developer, maps lover, free software enthusiast, triathlete's trainee... not necessarily in that order
 ---
 {% include JB/setup %}
 

@@ -3,9 +3,9 @@ layout: post
 title: "Instagram photos map"
 description: ""
 category: 
-- gis
-- photography
-- hows to
+- GIS
+- Photography
+- Hows To
 tags: []
 ---
 {% include JB/setup %}

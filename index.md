@@ -2,6 +2,7 @@
 layout: page
 title: psanxiao's web
 tagline: Entrepreneur (http://icarto.es ), software developer, maps lover, free software enthusiast, triathlete's trainee... not necessarily in that order
+description: Personal web page about entrepreneurship, free software, triathlon and live
 ---
 {% include JB/setup %}
 

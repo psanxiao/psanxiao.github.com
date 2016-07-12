@@ -18,8 +18,8 @@ Michael Jordan said:
 ### Triathlon
 * 1 Half Ironman
   - NorthwestTriman 2016
-* 1 Olimpic Triathlon
-  - Baiona 2016
+* 2 Olimpic Triathlon
+  - Baiona, Riveira 2016
 * 2 Sprint Triathlon
   - Oleiros, Riazor 2016
 * 1 Duathlon

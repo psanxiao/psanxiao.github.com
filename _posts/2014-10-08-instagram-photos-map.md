@@ -3,8 +3,6 @@ layout: post
 title: "Instagram photos map"
 description: ""
 category: 
-- GIS
-- Photography
 - Hows To
 tags: []
 ---

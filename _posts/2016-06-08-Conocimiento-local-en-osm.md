@@ -2,9 +2,8 @@
 layout: post
 title: "Conocimiento local en OSM"
 description: ""
-category: 
-- Spanish
-- OpenStreetMap
+category:
+- Geo
 tags: [openstreetmap]
 ---
 {% include JB/setup %}

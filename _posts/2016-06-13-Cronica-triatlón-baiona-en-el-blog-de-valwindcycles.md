@@ -2,8 +2,7 @@
 layout: post
 title: "Crónica del Triatlón de Baiona en el blog de Valwind Cycles"
 description: ""
-category: 
-- Spanish
+category:
 - Triathlon
 tags: []
 ---

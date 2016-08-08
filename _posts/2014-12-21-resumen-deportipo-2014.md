@@ -3,8 +3,7 @@ layout: post
 title: "Resumen deportivo 2014"
 description: ""
 category: 
-- General
-- Spanish
+- Running
 tags: []
 ---
 {% include JB/setup %}

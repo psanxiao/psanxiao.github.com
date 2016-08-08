@@ -3,8 +3,7 @@ layout: post
 title: "Debutando en medio ironman: Crónica del NorthWest Triman"
 description: "Debut en medio ironman"
 category: 
-- Spanish
-- Triatlhon
+- Triathlon
 tags: [triatlón]
 ---
 {% include JB/setup %}

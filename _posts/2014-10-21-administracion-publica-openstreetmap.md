@@ -3,8 +3,7 @@ layout: post
 title: "Administración Pública y OpenStreetMap"
 description: ""
 category: 
-- General
-- Spanish
+- Geo
 tags: []
 ---
 {% include JB/setup %}

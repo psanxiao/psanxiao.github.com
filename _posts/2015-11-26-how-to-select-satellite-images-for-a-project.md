@@ -3,7 +3,7 @@ layout: post
 title: "How to select satellite images for a project"
 description: ""
 category: 
-- GIS
+- Geo
 tags: []
 ---
 {% include JB/setup %}

@@ -2,10 +2,8 @@
 layout: post
 title: "Migrar el plugin de traducción en Wordpress"
 description: ""
-category: 
-- Free Software
+category:
 - Hows To
-- Spanish
 tags: []
 ---
 {% include JB/setup %}

@@ -3,8 +3,7 @@ layout: post
 title: "Dos ideas sobre OpenStreetMap"
 description: ""
 category: 
-- Spanish
-- OpenStreetMap
+- Geo
 tags: [openstreetmap]
 ---
 {% include JB/setup %}

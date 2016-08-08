@@ -3,9 +3,7 @@ layout: post
 title: "Usar Thunderbird como cliente de correo en un entorno Exchange"
 description: ""
 category: 
-- Free Software
 - Hows To
-- Spanish
 tags: []
 ---
 {% include JB/setup %}

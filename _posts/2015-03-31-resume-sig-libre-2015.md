@@ -3,9 +3,7 @@ layout: post
 title: "Algunas reflexiones sobre SIG Libre 2015"
 description: ""
 category:
-- Free Software
-- GIS
-- Spanish
+- Geo
 tags: []
 ---
 {% include JB/setup %}

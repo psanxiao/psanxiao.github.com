@@ -3,7 +3,6 @@ layout: post
 title: "Sublime Text plugins para ofimática"
 description: ""
 category: 
-- Spanish
 - Hows To
 tags: []
 ---

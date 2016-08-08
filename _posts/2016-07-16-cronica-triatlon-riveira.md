@@ -3,7 +3,6 @@ layout: post
 title: "Triatlón Concello de Riveira: Crónica en el blog de Valwindcycles"
 description: "Crónica del triatlón Concello de Riveira"
 category:
-- Spanish
 - Triathlon
 tags: [triatlón]
 ---

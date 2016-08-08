@@ -3,7 +3,6 @@ layout: post
 title: "Dos experiencias con la atención al cliente"
 description: ""
 category: 
-- Spanish
 - General
 tags: []
 ---

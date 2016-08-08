@@ -2,8 +2,7 @@
 layout: post
 title: "Heatmap de mis actividades en Strava"
 description: "" 
-category: 
-- Spanish
+category:
 - Running
 tags: []
 ---

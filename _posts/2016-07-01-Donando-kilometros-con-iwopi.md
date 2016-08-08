@@ -3,9 +3,7 @@ layout: post
 title: "Donando kilometros con iwopi"
 description: "Prueba de iwopi, plataforma para donar kilometros a iniciativas sociales"
 category: 
-- Spanish
 - Running
-- Triathlon
 tags: [donar, iwopi, running, triatlon]
 ---
 {% include JB/setup %}

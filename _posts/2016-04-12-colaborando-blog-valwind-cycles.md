@@ -3,7 +3,6 @@ layout: post
 title: "Colaborando en el blog de Valwind Cycles"
 description: ""
 category: 
-- Spanish
 - Running
 tags: []
 ---

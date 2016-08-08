@@ -4,7 +4,6 @@ title: "Propuesta de migración a Software Libre en el ayuntamiento de A Coruña
 description: ""
 category: 
 - Free Software
-- Spanish
 tags: []
 ---
 {% include JB/setup %}

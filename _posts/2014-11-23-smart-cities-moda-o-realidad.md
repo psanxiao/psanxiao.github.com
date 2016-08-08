@@ -3,7 +3,6 @@ layout: post
 title: "Smart Cities: ¿Moda o realidad?"
 description: ""
 category:
-- Spanish
 - General
 tags: []
 ---

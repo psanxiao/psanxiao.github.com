@@ -3,7 +3,6 @@ layout: post
 title: "Empezando la temporada de triatlones"
 description: ""
 category: 
-- Spanish
 - Triathlon
 tags: []
 ---

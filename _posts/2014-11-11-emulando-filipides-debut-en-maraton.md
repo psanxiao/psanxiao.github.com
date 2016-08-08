@@ -3,7 +3,6 @@ layout: post
 title: "Emulando a Filípides: Debut en maratón"
 description: ""
 category: 
-- Spanish
 - Running
 tags: []
 ---

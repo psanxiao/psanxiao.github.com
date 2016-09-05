@@ -10,7 +10,7 @@ tags: [tecnología, nuevos empleos]
 
 Bajo el título de este post quería reflexionar un poco sobre como se ve a veces la tecnología casi como si fuese algo malo, en base a dos ejemplos que me he encontrado recientemente.
 
-### La polémica del potenciómetro e la Vuelta a España
+### La polémica del potenciómetro en la Vuelta a España
 
 El primero de ellos tiene que ver con el mundo del deporte y concretamente el ciclismo. Estos días se está celebrando la vuelta a España, y [ha surgido una polémica en base al uso de los potenciómetros](http://diariodeltriatlon.es/not/8850/los-rivales-de-froome-acusan-al-britanico-de-usar-una-lsquo-trampa-legal-rsquo-/). Para los que no estéis muy al tanto de este deporte, los potenciómentros son aparatos que miden la potencia que un ciclista ejerce en cada pedalada, indicándolo en watios. Son aparatos que todos los ciclistas profesionales llevan en sus bicicletas desde hace ya tiempo, y que muchos ciclistas amateurs y aficionados empiezan a usar también. Los típicos cuentakilómetros de toda la vida que poníamos en las bicicletas han pasado desde hace algún tiempo a ser dispositivos mucho más sofisticados, con GPS y con poteciomentro incluídos, capaces de medir y almacenar multitud de datos que podemos ver en tiempo real o analizar a posteriori. Los equipos ciclistas profesionales cuentan ya con personal especializado que se dedica a analizar todo este volumen de información de cada ciclista para ayudarle a mejorar en su rendimiento, planificar los entrenamientos, etc...
 

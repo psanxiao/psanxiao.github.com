@@ -4,7 +4,7 @@ title: "Algunas reflexiones sobre SIG Libre 2015"
 description: ""
 category:
 - Geo
-tags: []
+tags: [resumen, software libre]
 ---
 {% include JB/setup %}
 

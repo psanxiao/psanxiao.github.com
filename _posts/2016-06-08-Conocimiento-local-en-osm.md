@@ -4,7 +4,7 @@ title: "Conocimiento local en OSM"
 description: ""
 category:
 - Geo
-tags: [openstreetmap]
+tags: [openstreetmap, osm]
 ---
 {% include JB/setup %}
 

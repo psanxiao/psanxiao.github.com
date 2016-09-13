@@ -4,7 +4,7 @@ title: "Emulando a Filípides: Debut en maratón"
 description: ""
 category: 
 - Running
-tags: []
+tags: [running, maratón]
 ---
 {% include JB/setup %}
 

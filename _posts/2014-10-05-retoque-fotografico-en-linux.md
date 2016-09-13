@@ -4,7 +4,7 @@ title: "Retoque fotográfico en Linux"
 description: ""
 categories: 
 - Photography
-tags: []
+tags: [software libre, linux, retoque fotográfico]
 ---
 {% include JB/setup %}
 

@@ -4,7 +4,7 @@ title: "Instagram photos map"
 description: ""
 category: 
 - Hows To
-tags: []
+tags: [instagram, map]
 ---
 {% include JB/setup %}
 

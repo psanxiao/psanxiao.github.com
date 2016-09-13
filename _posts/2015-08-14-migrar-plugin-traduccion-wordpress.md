@@ -4,7 +4,7 @@ title: "Migrar el plugin de traducción en Wordpress"
 description: ""
 category:
 - Hows To
-tags: []
+tags: [wordpress, plugin, traducción, migración]
 ---
 {% include JB/setup %}
 

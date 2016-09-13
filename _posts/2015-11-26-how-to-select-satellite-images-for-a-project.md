@@ -4,7 +4,7 @@ title: "How to select satellite images for a project"
 description: ""
 category: 
 - Geo
-tags: []
+tags: [iCarto, satellites]
 ---
 {% include JB/setup %}
 

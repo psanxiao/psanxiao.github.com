@@ -4,7 +4,7 @@ title: "Lecturas de verano"
 description: "Recomendación de lecturas para el verano"
 category:
 - General 
-tags: [lectura]
+tags: [lectura, experiencias]
 ---
 {% include JB/setup %}
 

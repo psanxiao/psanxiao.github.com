@@ -4,7 +4,7 @@ title: "Debutando en medio ironman: Crónica del NorthWest Triman"
 description: "Debut en medio ironman"
 category: 
 - Triathlon
-tags: [triatlón]
+tags: [triatlón, experiencias]
 ---
 {% include JB/setup %}
 

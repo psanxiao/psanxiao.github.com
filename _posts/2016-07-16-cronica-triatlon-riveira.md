@@ -4,7 +4,7 @@ title: "Triatlón Concello de Riveira: Crónica en el blog de Valwindcycles"
 description: "Crónica del triatlón Concello de Riveira"
 category:
 - Triathlon
-tags: [triatlón]
+tags: [triatlón, experiencias, valwindcycles]
 ---
 {% include JB/setup %}
 

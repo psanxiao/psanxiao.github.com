@@ -4,7 +4,7 @@ title: "Resumen deportivo 2014"
 description: ""
 category: 
 - Running
-tags: []
+tags: [running, resumen]
 ---
 {% include JB/setup %}
 

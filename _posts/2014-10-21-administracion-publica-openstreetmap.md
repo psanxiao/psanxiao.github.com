@@ -4,7 +4,7 @@ title: "Administración Pública y OpenStreetMap"
 description: ""
 category: 
 - Geo
-tags: []
+tags: [osm, openstreetmap, administración pública, software libre, datos abiertos]
 ---
 {% include JB/setup %}
 

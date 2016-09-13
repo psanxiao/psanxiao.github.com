@@ -4,7 +4,7 @@ title: "Crónica del Triatlón de Baiona en el blog de Valwind Cycles"
 description: ""
 category:
 - Triathlon
-tags: []
+tags: [experiencias, triatlón, valwindcycles]
 ---
 {% include JB/setup %}
 

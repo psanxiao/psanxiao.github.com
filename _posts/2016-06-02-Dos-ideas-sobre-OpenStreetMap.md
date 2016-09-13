@@ -4,7 +4,7 @@ title: "Dos ideas sobre OpenStreetMap"
 description: ""
 category: 
 - Geo
-tags: [openstreetmap]
+tags: [openstreetmap, osm]
 ---
 {% include JB/setup %}
 

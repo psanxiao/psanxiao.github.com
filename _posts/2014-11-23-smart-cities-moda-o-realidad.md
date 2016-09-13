@@ -4,7 +4,7 @@ title: "Smart Cities: ¿Moda o realidad?"
 description: ""
 category:
 - General
-tags: []
+tags: [smart city, administración pública]
 ---
 {% include JB/setup %}
 

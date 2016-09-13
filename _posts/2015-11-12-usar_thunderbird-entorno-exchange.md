@@ -4,7 +4,7 @@ title: "Usar Thunderbird como cliente de correo en un entorno Exchange"
 description: ""
 category: 
 - Hows To
-tags: []
+tags: [thunderbird, software libre, exchange]
 ---
 {% include JB/setup %}
 

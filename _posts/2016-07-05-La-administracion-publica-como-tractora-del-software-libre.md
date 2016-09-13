@@ -4,7 +4,7 @@ title: "La administración pública como tractora del software libre"
 description: "Por qué la administración pública debe potenciar el software libre"
 category: 
 - Free Software
-tags: [free software, software libre]
+tags: [free software, software libre, administración pública]
 ---
 {% include JB/setup %}
 

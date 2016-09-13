@@ -4,7 +4,7 @@ title: "Heatmap de mis actividades en Strava"
 description: "" 
 category:
 - Running
-tags: []
+tags: [heatmap, map, strava]
 ---
 {% include JB/setup %}
 

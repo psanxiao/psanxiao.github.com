@@ -4,7 +4,7 @@ title: "Colaborando en el blog de Valwind Cycles"
 description: ""
 category: 
 - Running
-tags: []
+tags: [valwindcycles]
 ---
 {% include JB/setup %}
 

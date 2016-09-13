@@ -4,7 +4,7 @@ title: "Empezando la temporada de triatlones"
 description: ""
 category: 
 - Triathlon
-tags: []
+tags: [triatlón, debutar, experiencias]
 ---
 {% include JB/setup %}
 

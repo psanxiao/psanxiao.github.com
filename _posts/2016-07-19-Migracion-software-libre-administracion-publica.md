@@ -4,7 +4,7 @@ title: "Migración a software libre dentro de una administración pública"
 description: "Como migrar a software libre una administración pública"
 category: 
 - Free Software
-tags: [free software, software libre, migración]
+tags: [free software, software libre, migración, administración pública]
 ---
 {% include JB/setup %}
 

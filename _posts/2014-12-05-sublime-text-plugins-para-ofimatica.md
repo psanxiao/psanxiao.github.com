@@ -4,7 +4,7 @@ title: "Sublime Text plugins para ofimática"
 description: ""
 category: 
 - Hows To
-tags: []
+tags: [sublime text, plugins]
 ---
 {% include JB/setup %}
 

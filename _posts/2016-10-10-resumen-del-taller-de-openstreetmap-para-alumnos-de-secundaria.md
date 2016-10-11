@@ -21,12 +21,12 @@ Desde el año 2010, en la asociación GHANDALF, venimos haciendo este tipo de ch
 En este caso la temática era la información geográfica y el proyecto OpenStreetMap. Las ideas que les quería transmitir eran básicamente tres:
 
 * **Los mapas molan**: O más concretamente, como visualizar la información a través de mapas nos ayuda y nos ofrece nuevas posibilidades de análisis.
-* **La importancia de los datos libres:** Enseñarles a diferenciar entre la representación y la información en sí, los datos, y por tanto la importancia de que los éstos sean libres, igual que el software.
+* **La importancia de los datos libres:** Enseñarles a diferenciar entre la representación y la información en sí, los datos, y por tanto la importancia de que éstos sean libres, igual que el software.
 * **OSM no es un mapa, es una base de datos**: Que no  pensasen en OSM como un mapa sino en la información geográfica libre y como OSM une precisamente las dos ideas anteriores.
 
 ### Los alumnos
 
-En total fueron casi 200 alumnos entre los dos centros, de 3º y 4º de ESO y algún ciclo de formación personal, es decir de entre unos 15 y 18 años.
+En total fueron casi 200 alumnos entre los dos centros, de 3º y 4º de ESO y algún ciclo de formación profesional, es decir de entre unos 15 y 18 años.
 
 Tenía mis dudas sobre manejar grupos tan grandes, y sigo pensando que con un grupo más pequeño se podrían haber hecho más cosas, pero aún así, tengo que decir que estoy muy contento. Estuvieron muy atentos en general, motivados y participativos, y además me sorprendieron gratamente con muchas de las respuestas y opiniones a las diferentes dinámicas y cuestiones que les fui planteando.
 
@@ -34,7 +34,7 @@ Se habla mucho sobre las diferencias entre las nuevas generaciones y las pasadas
 
 ### El taller
 
-Lo primero que tengo que decir es que el taller en realidad no fue un taller, sino más bien una charla. Al ser grupos tan numerosos no había posibilidad de usar un aula con ordenadores así que lo planteé más como una charla, incluyendo una demo para que viesen como se usa OpenStreetMap y organizando un pequeño concurso para que tratar de incentivar que luego, desde sus casas, probasen el proyecto y trabajasen con él. Además de la presentación y el concurso preparé algunos enlaces, de los que fui hablando durante la charla, para que investigasen algo más por su cuenta. Todo el material está disponible [aquí](http://psanxiao.com/osm-slides).
+Lo primero que tengo que decir es que el taller en realidad no fue un taller, sino más bien una charla. Al ser grupos tan numerosos no había posibilidad de usar un aula con ordenadores así que lo planteé más como una charla, incluyendo una demo para que viesen como se usa OpenStreetMap y organizando un pequeño concurso para tratar de incentivar que luego, desde sus casas, probasen el proyecto y trabajasen con él. Además de la presentación y el concurso preparé algunos enlaces, de los que fui hablando durante la charla, para que investigasen algo más por su cuenta. Todo el material está disponible [aquí](http://psanxiao.com/osm-slides).
 
 Como decía al principio, la primera parte estuvo más centrada en hablarles de la información geográfica y de los mapas, y de como éstos nos pueden ayudar a ver la información de otra manera. Nada más empezar el taller y sin mostrarles nada les pedí que cogiesen papel y bolígrafo y que en dos minutos me explicasen como era la zona en la que estábamos, el centro y los alrededores, que yo no conocía. Pasados los dos minutos les pedí que levantasen la mano aquellos que habían hecho un mapa.
 

@@ -34,8 +34,8 @@ Michael Jordan said:
   - Coruña21 2014, 2015
   - Vig-Bay 2013, 2014, 2016
   - Volta a ría 2014, 2015
-* 8 10K
-  - Coruña 10 2013, 2014, 2015
+* 9 10K
+  - Coruña 10 2013, 2014, 2015, 2016
   - 10K Coruña42 2014, 2016
   - San Xiao 2014
   - Sanitas Coruña 2013

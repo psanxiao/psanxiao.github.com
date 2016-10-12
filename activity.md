@@ -97,8 +97,8 @@ Here you can find some of the free software projects in which I have involved:
 
 * #### Talks and workshops about OpenStreetMap
 
-    **[OSM Slides](http://xeoinquedos.eu/osm-slides)**
-
+    **[OSM Slides](http://psanxiao.com/osm-slides)**
+        2016 - Talks for students of the CPI Xosé Pichel e IES Xulián Magariños
         2014 - Talk and workshop for students of Cooperation for Development  
                  in Civil Engineering, a subject of Civil Engineering degree  
                  (University of A Coruña)

@@ -18,6 +18,6 @@ Una de las bases de la pretemporada es coger fuerza, lo cual supone rutinas de e
 
 La otra cuestión que quiero trabajar más desde ya la pretemporada es la natación, que es donde tengo mucho margen de mejora, así que este año sí o sí tengo que buscarle hueco a la piscina todas las semanas.
 
-Aunque [el reto](http://psanxiao.com/voy-a-ser-un-ironman) está lejos todavía, creo que la pretemporada es un buen momento también para empezar a pensar en el material. Aún queda tiempo de sobre, pero es importante tenerlo todo bien probado y tener confianza con él, así que las próximas semanas creo que habrá novedades sobre esto, y alguna importante creo...
+Aunque [el reto](http://psanxiao.com/voy-a-ser-un-ironman) está lejos todavía, creo que la pretemporada es un buen momento también para empezar a pensar en el material. Aún queda tiempo de sobra, pero es importante tenerlo todo bien probado y tener confianza con él, así que las próximas semanas creo que habrá novedades sobre esto, y alguna importante creo...
 
 Más artículos relacionados en: [#voyaserunironman](http://psanxiao.com/voyaserunironman)

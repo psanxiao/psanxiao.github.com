@@ -13,7 +13,7 @@ En el año 2010 se celebró el [FOSS4G en Barcelona](http://2010.foss4g.org/), l
 En esa charla Michael Gould, dijo una frase que se quedó grabada entre todos los asistentes y que fue la comidilla durante mucho tiempo: "ESRI is Open", creo recordar que incluso aparecía escrita como el único texo en una de las diapositivas. El estruendo en la sala fue considerable, el turno de preguntas fue calentito y los corrillos de después intensos, por no hablar del Twitter.
 
 Pero lo cierto es que desde aquel momento la estrategia de esta empresa ha sido la de repetir ese mantra una y otra vez, en público y en privado, desde conferenciantes hasta comerciales. Incluso hasta el punto de que cuando la Xunta de Galicia elegió esta solución como sistema corporativo, un alto responsable en una reunión me dijo que por qué nos quejábamos, si era abierto.
-Hace poco a través de Twitter también [tuve una discusión con una persona de ESRI sobre lo "abierto" de sus soluciones](https://twitter.com/aitorcalero/status/781931184255270912).
+Hace poco a través de Twitter también [tuve una discusión con una persona de ESRI sobre lo "abierto" de sus soluciones](https://twitter.com/aitorcalero/status/781931184255270912) y el caso particular de la IDE de A Coruña.
 
 Pero qué es abierto? La pregunta del millón. [Según se puede leer en su web](http://www.esri.com/software/open), por ejemplo, su solución implementa todos los estándares abiertos, se puede usar para compartir datos abiertos, tienen no se cuantos proyectos liberados como software libre, colaboran con muchos proyectos de software libre... para, para que igual es verdad, igual ESRI is Open...
 

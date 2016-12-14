@@ -30,10 +30,10 @@ Michael Jordan said:
   - [101 Peregrinos](http://www.101peregrinos.com) 2015
 * 1 Marathon
   - Oporto 2014
-* 7 Half Marathon
+* 8 Half Marathon
   - Coruña21 2014, 2015
   - Vig-Bay 2013, 2014, 2016
-  - Volta a ría 2014, 2015
+  - Volta a ría 2014, 2015, 2016
 * 9 10K
   - Coruña 10 2013, 2014, 2015, 2016
   - 10K Coruña42 2014, 2016

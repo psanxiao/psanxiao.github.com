@@ -28,6 +28,8 @@ Michael Jordan said:
 ### Running & Trail
 * 1 Ultra Trail
   - [101 Peregrinos](http://www.101peregrinos.com) 2015
+* 1 Ultramarathon
+  - [Ultra Bomberos, Betanzos-Santiago (70kms)]
 * 1 Marathon
   - Oporto 2014
 * 8 Half Marathon

@@ -3,7 +3,7 @@ layout: post
 title: "Qué hacer y qué no hacer en la preparación de un Ironman"
 description: "Reflexiones sobre que cosas no hacer durante la preparación de un Ironman"
 category: 
-- voyaseruniroman
+- voyaserunironman
 tags: [triatlón, triathlon, ironman, reto, ultramaratón]
 ---
 {% include JB/setup %}

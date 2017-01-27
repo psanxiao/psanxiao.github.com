@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Esta sección es un recopilatorio de los posts etiquetados bajo la categoría **12meses12mapas**, una especie de propósito durante el año 2017 de escribir un post al mes hablando sobre un mapa.
+Esta sección es un recopilatorio de los posts etiquetados bajo la categoría **12meses12mapas**, una especie de propósito durante el año 2017 de [escribir un post al mes hablando sobre un mapa](http://psanxiao.com/12-meses-12-mapas).
 
 ***
 

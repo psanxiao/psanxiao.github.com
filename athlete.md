@@ -44,8 +44,8 @@ Michael Jordan said:
   - Lugo Monumental 2010
 * 1 [Behovia-San Sebastián](http://www.behobia-sansebastian.com) 2015
 * 2 Pedestres Santiago 2010, 2013
-* 7 Trails
-  - (Costa Artabra, Laracha, Arteixo 2015 & 2016, As Pontes, Brigantia, Costa Doce)
+* 8 Trails
+  - (Costa Artabra, Laracha, Arteixo 2015 & 2016, As Pontes, Brigantia, Costa Doce 2016 & 2017)
 * 8 Popular Races
   - (Pinga-Pinga, Volta Oza, Pedestre Ames, Popular Cambre, Parque Oleiros,
      Carrera contra el Cáncer, San Silvestre A Coruña, Nocturna Ferrol)

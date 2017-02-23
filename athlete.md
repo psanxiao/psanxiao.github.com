@@ -22,8 +22,8 @@ Michael Jordan said:
   - Baiona, Riveira 2016
 * 2 Sprint Triathlon
   - Oleiros, Riazor 2016
-* 1 Duathlon
-  - Arteixo 2016
+* 2 Duathlon
+  - Arteixo 2016, Equipos contrarreloj Vedra 2017
 
 ### Running & Trail
 * 1 Ultra Trail

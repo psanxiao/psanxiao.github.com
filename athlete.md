@@ -32,8 +32,8 @@ Michael Jordan said:
   - [Ultra Bomberos 2016, Betanzos-Santiago (70kms)]
 * 1 Marathon
   - Oporto 2014
-* 8 Half Marathon
-  - Coruña21 2014, 2015
+* 9 Half Marathon
+  - Coruña21 2014, 2015, 2017
   - Vig-Bay 2013, 2014, 2016
   - Volta a ría 2014, 2015, 2016
 * 9 10K

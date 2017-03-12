@@ -26,12 +26,13 @@ h1, h2, h3, h4 {
 /* posts index */
 .post > h3.title {
   position: relative;
-  padding-top: 10px; }
+  padding-top: 10px;}
 
 .post > h3.title span.date {
   position: absolute;
   right: 0;
-  font-size: 0.9em; }
+  font-size: 0.9em;
+  padding-left: 200px; }
 
 .post > .more {
   margin: 10px 0;
@@ -40,7 +41,11 @@ h1, h2, h3, h4 {
 /* post-full*/
 .post-full .date {
   margin-bottom: 20px;
-  font-weight: bold; }
+  font-weight: bold;}
+
+.post-full {
+  padding-left: 200px;}
+}
 
 /* tag_box */
 .tag_box {

@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-Esta sección es un recopilatorio de los posts etiquetados bajo la categoría **#voyaserunironman**, en los cuales cuento mi experiencia de preparación para intentar hacer mi primer triatlón distancia Ironman.
+Esta sección es un recopilatorio de los posts etiquetados bajo la categoría **#voyaserunironman**, en los cuales cuento mi experiencia de preparación para intentar hacer mi primer triatlón distancia Ironman (3,8 km swin - 180 km bike - 42 Km run).
 
 ***
 

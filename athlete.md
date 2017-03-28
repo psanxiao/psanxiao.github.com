@@ -15,15 +15,15 @@ Michael Jordan said:
 
 <a style="display:inline-block;background-color:#aaaaaa;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/11781864/badge' target="_clean">Sígueme en <img src="http://badges.strava.com/logo-strava.png"></a>
 
-### Triathlon (9)
+### Triathlon (10)
 * 2 Half Ironman
   - [NorthwestTriman](http://northwesttriman.com/), [Desafío Islas Cíes](http://www.desafioislascies.com/) 2016
 * 2 Olimpic Triathlon
   - Baiona, Riveira 2016
 * 2 Sprint Triathlon
   - Oleiros, Riazor 2016
-* 3 Duathlon
-  - Arteixo 2016, Equipos contrarreloj Vedra, Equipos contrarreloj Boiro 2017
+* 4 Duathlon
+  - Arteixo 2016 & 2017, Equipos contrarreloj Vedra, Equipos contrarreloj Boiro 2017
 
 ### Running & Trail (40)
 * 1 Ultra Trail

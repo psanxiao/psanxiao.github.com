@@ -4,7 +4,7 @@ title: "Las lesiones"
 description: "Cuando llegan las lesiones durante una preparación"
 category: 
 - voyaserunironman
-tags: [nutrición, triatlón, triathlon, ironman, reto]
+tags: [lesiones, triatlón, triathlon, ironman, reto]
 ---
 {% include JB/setup %}
 

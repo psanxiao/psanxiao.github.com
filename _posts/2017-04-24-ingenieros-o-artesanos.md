@@ -48,7 +48,7 @@ Incluso hilando fino podríamos autodenominarnos artistas del software, ¿por qu
 
 Ah, para, no entonces no nos vale, porque todos sabemos que el software de perfecto no tiene nada.
 
-Después de todo incluso que nos dominen informáticos tampoco tiene tanto de malo ¿no?. Lo que pasa es que es un término igual demasiado amplio y a nosotros gusta especializarnos, por eso hoy en día ya hablamos de *frontend developer*, *backend developer*, *full-stack developer*...
+Después de todo incluso que nos denominen informáticos tampoco tiene tanto de malo ¿no?. Lo que pasa es que es un término igual demasiado amplio y a nosotros gusta especializarnos, por eso hoy en día ya hablamos de *frontend developer*, *backend developer*, *full-stack developer*...
 
 En el fondo la nuestra es una profesión tan nueva que en realidad pasará tiempo antes de tener claro lo que somos o lo que no somos. Porque además es una profesión que todavía se está inventando a si misma, a un ritmo vertiginoso, y lo que hoy parece que es un gran avance mañana está obsoleto. Tratar de plantear metodologías, buscar nombres, etc... es algo que en realidad está bien en muchos aspectos. Dignificar la profesión, que no el título, darle la importancia que se merece a crear algo como el software que a día de hoy, seamos claro, controla nuestras vidas al completo y no podríamos vivir sin ello, por raro que parezca es una lucha todavía.
 

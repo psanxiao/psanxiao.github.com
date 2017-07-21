@@ -10,6 +10,10 @@ Esta sección es un recopilatorio de los posts etiquetados bajo la categoría **
 
 ***
 
+También están disponibles en formato ebook, [descárgalo!](assets/books/Voy a ser un ironman - Pablo Sanxiao.epub)
+
+***
+
 <ul >
     {% for post in site.categories.voyaserunironman %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}"><b>{{ post.title }}</b></a></li>

@@ -40,7 +40,7 @@ Otro de los puntos de controversia es lo que se ha llamado la versión eurocentr
 
 Como respuesta a esta supuesta versión interesada del mundo eurocentrista o de supremacía del norte sobre el sur, en 1970 aparece el mapa de Peters. Arno Peters era historiador, aficionado a la cartografía, y cuando presentó su proyección dejó claro que lo que buscaba era terminar con eso, ya que así veía él el mapa de Mercator, como una visión de la supremacía de Europa frente a sus colonias.
 
-![mapa-facebook](/assets/images/posts/peters-map.jpg)
+![mapa-peters](/assets/images/posts/peters-map.jpg)
 
 Desde el punto de vista cartográfico, su proyección fue más que discutida, primero porque no había sido el primero en inventarla, ya que en 1855 un reverendo escocés llamado James Gall ya había presentado una proyección a efectos prácticos idéntica a la de Peters, por eso hoy en día se debe hablar de la proyección de Gall-Peters y no sólo de Peters. Pero además de eso, desde el punto de vista más técnico muchos análisis de expertos en la materia revelaron muchos defectos en su proyección, la supuesta afirmación de que en esta proyección la escala y la distancia están correctamente representadas es falsa ya que matemáticamente es imposible. Mirando con detalle hay aberraciones, considerándolas así con la misma vara de medir que en el caso de Mercator, así por ejemplo Nigeria o Chad aparecen el doble de largos de lo que son en realidad. 
 

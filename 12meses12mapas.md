@@ -10,10 +10,10 @@ Esta sección es un recopilatorio de los posts etiquetados bajo la categoría **
 
 ***
 
-<ul >
+<!-- <ul >
     {% for post in site.categories.12meses12mapas %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}"><b>{{ post.title }}</b></a></li>
         {{ post.content | strip_html | truncatewords:100}}<br>
             <a href="{{ post.url }}">Read more...</a><br><br>
     {% endfor %}
-</ul>
+</ul> -->

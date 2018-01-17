@@ -18,7 +18,7 @@ Una de las características de este dispositivo es que no tiene mucha capacidad 
 
 ![mapa-strava](/assets/images/posts/garmin-520-osm.jpg)
 
-###Openstreetmap al rescate
+### Openstreetmap al rescate
 
 Por suerte esto es *hackeable* y gracias a [Opentreetmap](http://psanxiao.com/un-mapa-hecho-entre-todos) podemos mejorar y mucho la cartografía base de nuestro mapa. Vamos a ello:
 
@@ -34,7 +34,7 @@ Después de todo esto sólo nos queda rellenar nuestra dirección de correo en *
 
 El enlace de descarga nos proporciona varios tipos de formatos. Yo suelo coger el que tiene el icono de MicroSD, un zip que se llama *openfietsmap_lite_gmapsupp.zip*. Al descomprimirlo nos quedará un fichero que se llama *gmapsupp.img*, que es el que contienen nuestro mapa. Este fichero deberemos pasarlo al garmin, pero antes tenemos que renombrarlo a *gmapbmap.img* que es el nombre del fichero que tiene el mapa en nuestro garmin.
 
-###Pasar el mapa a nuestro dispositivo
+### Pasar el mapa a nuestro dispositivo
 
 Para pasar el mapa a nuestro garmin simplemente tenemos que conectar este a nuestro ordenador con el cable. Aparecerá como un disco duro o una memoria usb y veremos los archivos que hay dentro. En la raíz es donde tendremos el fichero llamado *gmapbmap.img* que tenemos que cambiar por el que nos acabamos de descargar.
 

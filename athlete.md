@@ -15,12 +15,13 @@ Michael Jordan said:
 
 <a style="display:inline-block;background-color:#aaaaaa;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/11781864/badge' target="_clean">Sígueme en <img src="http://badges.strava.com/logo-strava.png"></a>
 
-### Triathlon (19)
+### Triathlon (20)
 * 1 Ironman
   - [NorthwestTriman](http://northwesttriman.com/) 2017
 * 3 Half Ironman
   - [NorthwestTriman](http://northwesttriman.com/), [Desafío Islas Cíes](http://www.desafioislascies.com/) 2016, 2017
-* 4 Olimpic Triathlon
+* 5 Olimpic Triathlon
+  - Riveira 2016, Baiona 2016 & 2018, Sanxenxo 2017, Ocean Lava 2018 
 * 4 Sprint Triathlon
   - Oleiros 2016 & 2017, Riazor 2016, Coruña 2017 
 * 7 Duathlon

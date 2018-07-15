@@ -10,7 +10,7 @@ tags: [osm, mapa, maps, iCarto]
 
 Este mes de Julio ha salido el segundo número de la revista [Xeración Ñu](https://xeracion-gnu.gitbook.io/xeracion-gnu-01) en el que colaboramos desde [iCarto](http://icarto.es) aportando un artículo sobre OpenStreetMap. Reproduzco aquí el texto completo que, con mucho gusto, me ha tocado escribir.
 
-#El ecosistema de  OpenStreetMap
+# El ecosistema de  OpenStreetMap
 
 ¿Qué es y qué no es OSM? Esta es siempre una de las preguntas o reflexiones que planteo en las charlas sobre [OpenStreetMap](http://openstreetmap.org) y a través de la que siempre explico que OSM no es un mapa. Esto suene chocar bastante ya que cuando uno entra en la web oficial lo primero que ve es un mapa, y además una de las formas más sencillas de explicar que es OSM para los más profanos es compararlo con *Google Maps*.
 

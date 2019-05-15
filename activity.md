@@ -111,6 +111,10 @@ Here you can find some of the free software projects in which I have involved:
 
 * #### Events organized
 
+    **[International QGIS User Conference](http://2019.qgis.es)**
+    
+        2019 - A Coruña
+
     **[Geocamp ES](http://geocamp.es)**
 
         An “unconference” about FLOSS geographic information technologies.

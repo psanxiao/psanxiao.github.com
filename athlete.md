@@ -21,9 +21,9 @@ Michael Jordan said:
 * 3 Half Ironman
   - [NorthwestTriman](http://northwesttriman.com/), [Desafío Islas Cíes](http://www.desafioislascies.com/) 2016, 2017
 * 5 Olimpic Triathlon
-  - Riveira 2016, Baiona 2016 & 2018, Sanxenxo 2017, Ocean Lava 2018 
+  - Riveira 2016, Baiona 2016 & 2018, Sanxenxo 2017, Ocean Lava 2018
 * 4 Sprint Triathlon
-  - Oleiros 2016 & 2017, Riazor 2016, Coruña 2017 
+  - Oleiros 2016 & 2017, Riazor 2016, Coruña 2017
 * 7 Duathlon
   - Arteixo 2016 & 2017, Equipos contrarreloj Vedra 2017 & 2018, Equipos contrarreloj Boiro 2017, Santiago 2018, Riveira 2018
 
@@ -51,3 +51,9 @@ Michael Jordan said:
 * 11 Popular Races
   - (Pinga-Pinga, Volta Oza, Pedestre Ames, Popular Cambre, Parque Oleiros,
      Carrera contra el Cáncer, San Silvestre A Coruña, Nocturna Ferrol, Festival de la Luz, Matogrande, Arteixo)
+
+### Cycling (4)
+
+* 2 [Desafío Volta a Lugo](https://www.desafiovoltalugo.com) 2018 & 2019
+* [UCI Grand fondo Ézaro](https://www.granfondoezaro.com) 2018
+* Clásica As Pontes 2019

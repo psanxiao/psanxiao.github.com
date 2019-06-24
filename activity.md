@@ -12,6 +12,11 @@ group: navigation
 ### \_professional activity {#professional}
 Here you can find some of the projects in which I have participated as part of my professional activity at [CartoLab](http://cartolab.udc.es) and [iCarto](http://icarto.es):
 
+* #### SERGESCO
+    Virtual office and website for a water management company  
+    **Positions**: Project Manager/Developer/Web craftsman - **Technologies**: Django, Wordpress  
+    \[[Project website](https://sergesco.gal)\]
+
 * #### OCFLOSS
     Free Software Coordination Office at [AMTEGA](http://amtega.xunta.es) (Xunta de Galicia)  
     **Position**: Consultant
@@ -112,7 +117,7 @@ Here you can find some of the free software projects in which I have involved:
 * #### Events organized
 
     **[International QGIS User Conference](http://2019.qgis.es)**
-    
+
         2019 - A Coruña
 
     **[Geocamp ES](http://geocamp.es)**

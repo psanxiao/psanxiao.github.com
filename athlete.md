@@ -15,13 +15,13 @@ Michael Jordan said:
 
 <a style="display:inline-block;background-color:#aaaaaa;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/11781864/badge' target="_clean">Sígueme en <img src="http://badges.strava.com/logo-strava.png"></a>
 
-### Triathlon (20)
+### Triathlon (21)
 * 1 Ironman
   - [NorthwestTriman](http://northwesttriman.com/) 2017
 * 3 Half Ironman
   - [NorthwestTriman](http://northwesttriman.com/), [Desafío Islas Cíes](http://www.desafioislascies.com/) 2016, 2017
-* 5 Olimpic Triathlon
-  - Riveira 2016, Baiona 2016 & 2018, Sanxenxo 2017, Ocean Lava 2018
+* 6 Olimpic Triathlon
+  - Riveira 2016, Baiona 2016 & 2018, Sanxenxo 2017, Ocean Lava 2018, Boamorte 2019
 * 4 Sprint Triathlon
   - Oleiros 2016 & 2017, Riazor 2016, Coruña 2017
 * 7 Duathlon
@@ -34,10 +34,10 @@ Michael Jordan said:
   - [Ultra Bomberos 2016, Betanzos-Santiago (70kms)]
 * 1 Marathon
   - Oporto 2014
-* 9 Half Marathon
+* 10 Half Marathon
   - Coruña21 2014, 2015, 2017
   - Vig-Bay 2013, 2014, 2016
-  - Volta a ría 2014, 2015, 2016
+  - Volta a ría 2014, 2015, 2016, 2019
 * 10 10K
   - Coruña 10 2013, 2014, 2015, 2016
   - 10K Coruña42 2014, 2016, 2018

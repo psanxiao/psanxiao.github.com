@@ -52,8 +52,8 @@ Michael Jordan said:
   - (Pinga-Pinga, Volta Oza, Pedestre Ames, Popular Cambre, Parque Oleiros,
      Carrera contra el Cáncer, San Silvestre A Coruña, Nocturna Ferrol, Festival de la Luz, Matogrande, Arteixo)
 
-### Cycling (4)
+### Cycling (5)
 
 * 2 [Desafío Volta a Lugo](https://www.desafiovoltalugo.com) 2018 & 2019
-* [UCI Grand fondo Ézaro](https://www.granfondoezaro.com) 2018
+* [UCI Grand fondo Ézaro](https://www.granfondoezaro.com) 2018 & 2019
 * Clásica As Pontes 2019

@@ -12,6 +12,10 @@ group: navigation
 ### \_professional activity {#professional}
 Here you can find some of the projects in which I have participated as part of my professional activity at [CartoLab](http://cartolab.udc.es) and [iCarto](http://icarto.es):
 
+* #### AIGAR
+    Mobile App to water meter reading in El Salvador  
+    **Positions**: Lead Developer - **Technologies**: Apache Cordova, Javascript
+
 * #### SERGESCO
     Virtual office and website for a water management company  
     **Positions**: Project Manager/Developer/Web craftsman - **Technologies**: Django, Wordpress  
@@ -103,6 +107,7 @@ Here you can find some of the free software projects in which I have involved:
 * #### Talks and workshops about OpenStreetMap
 
     **[OSM Slides](http://psanxiao.com/osm-slides)**  
+        2019 - Workshop for [Bricolabs](https://bricolabs.cc)  
         2019 - Talk for students of the CEIP Virxe do Carme (Sober)  
         2017 - Talk for students of the CPI Xosé Pichel  
         2016 - Talks for students of the CPI Xosé Pichel e IES Xulián Magariños  

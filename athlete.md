@@ -27,7 +27,7 @@ Michael Jordan said:
 * 7 Duathlon
   - Arteixo 2016 & 2017, Equipos contrarreloj Vedra 2017 & 2018, Equipos contrarreloj Boiro 2017, Santiago 2018, Riveira 2018
 
-### Running & Trail (44)
+### Running & Trail (45)
 * 1 Ultra Trail
   - [101 Peregrinos](http://www.101peregrinos.com) 2015
 * 1 Ultramarathon
@@ -46,8 +46,8 @@ Michael Jordan said:
   - Lugo Monumental 2010
 * 1 [Behovia-San Sebastián](http://www.behobia-sansebastian.com) 2015
 * 2 Pedestres Santiago 2010, 2013
-* 8 Trails
-  - (Costa Artabra, Laracha, Arteixo 2015 & 2016, As Pontes, Brigantia, Costa Doce 2016 & 2017)
+* 9 Trails
+  - (Costa Artabra, Laracha, Arteixo 2015 & 2016, As Pontes, Brigantia, Costa Doce 2016, 2017, 2020)
 * 11 Popular Races
   - (Pinga-Pinga, Volta Oza, Pedestre Ames, Popular Cambre, Parque Oleiros,
      Carrera contra el Cáncer, San Silvestre A Coruña, Nocturna Ferrol, Festival de la Luz, Matogrande, Arteixo)

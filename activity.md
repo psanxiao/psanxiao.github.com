@@ -7,6 +7,10 @@ group: navigation
 
 {% include JB/setup %}
 
+<a href="index.html">Home</a>
+
+<h2>Actividad</h2>
+
 \[[\_professional activity](#professional)\] \[[\_community projects](#community)\] \[[\_free software promotion](#promotion)\]  \[[\_volunteer work](#volunteer)\]
 
 ### \_professional activity {#professional}

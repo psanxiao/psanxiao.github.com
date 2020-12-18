@@ -19,6 +19,7 @@ Here you can find some of the projects in which I have participated as part of m
 * #### AIGAR
     Mobile App to water meter reading in El Salvador  
     **Positions**: Lead Developer - **Technologies**: Apache Cordova, Javascript
+    \[[Source code](https://gitlab.com/icarto/aigar-lecturas)\]
 
 * #### SERGESCO
     Virtual office and website for a water management company  
@@ -28,6 +29,7 @@ Here you can find some of the projects in which I have participated as part of m
 * #### OCFLOSS
     Free Software Coordination Office at [AMTEGA](http://amtega.xunta.es) (Xunta de Galicia)  
     **Position**: Consultant
+    \[[Project website](https://mancomun.gal)\]
 
 * #### SIXHIARA
     gvSIG extension for data water management in Mozambique  
@@ -57,6 +59,7 @@ Here you can find some of the projects in which I have participated as part of m
 * #### EIEL A Coruña (Enquiry on Local Infrastructures and Services)
     Management of a Spatial BDD, GIS Application and Web Portal with the geographic information of A Coruña province council  
     **Position**: Project Manager - **Technologies**: GisEIEL, PostgreSQL/PostGIS, Deegree
+    \[[Project website](https://webeiel.dacoruna.gal/index.php?lang=es)\] 
 
 * #### ArqueoPonte
     GIS application to manage data from archaeological excavations  

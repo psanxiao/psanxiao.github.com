@@ -45,10 +45,7 @@ docker run —name geoserver -d -p 8080:8080 oscarfonts/geoserver
 
 Con la etiqueta -name le indicamos el nombre que le queremos dar al contenedor, en este caso lo llamamos simplemente geoserver. Después le indicamos el puerto en el que queremos que se ejecute, en este caso en el 8080, y finalmente le indicamos que use la imagen que acabamos de descargar.
 
-<aside>
-💡 Este comando lo ejecutaremos sólo la primera vez, ya que lo que estamos haciendo es crear un contenedor a partir de la imagen. A partir de ese momento podremos detener y arrancar ese mismo contenedor siempre que queramos. Con esa misma imagen podemos crear otros contenedores, usando el comando anterior, pero poniéndole otro nombre y si vamos a querer ejecutarlos a la vez, cambiando también el puerto.
-
-</aside>
+**Nota**: _Este comando lo ejecutaremos sólo la primera vez, ya que lo que estamos haciendo es crear un contenedor a partir de la imagen. A partir de ese momento podremos detener y arrancar ese mismo contenedor siempre que queramos. Con esa misma imagen podemos crear otros contenedores, usando el comando anterior, pero poniéndole otro nombre y si vamos a querer ejecutarlos a la vez, cambiando también el puerto_.
 
 Docker nos ofrece algunos comandos para ver los contenedores que tenemos y los que están ejecutándose.
 
